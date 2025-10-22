@@ -8,7 +8,7 @@ ID | Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 4 | Aline Matoso | Gabriel de Lima | Heros Dinão | Vitor Campos
 5 | fiel | Pedro H P Geraldo | Weverton Vieira Ribeiro | Gabriel Arnold
 6 | Bovinos - Palestra Italiana | Nycolas Augusto | Wendel do Prado | Wellington Piska
-7 | Xtralrock | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
+7 | Rafael do Cassino, destruidor da roleta | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
 8 | BeatAPI | Bruno Viotto | Gabriela Pedroso | Michelle Bornes
 9 | EstanteAPI | João Pinheiro | Gabriel Riccetto | Vittor Dallacqua 
 10 | Carros | Daniel | Emiliano | Vinícius Leal

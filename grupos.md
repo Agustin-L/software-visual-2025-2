@@ -2,4 +2,4 @@
 
 Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 ---|------|-----------|-----
-Xablau | Yuri Alberto | Carlitos Tevez | Marcelinho Carioca
+Xtralrock | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
